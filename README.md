@@ -1,5 +1,7 @@
 # Atlantis
 
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/1d166c42-db7a-44f3-b1a9-33fe2ac81d56.svg)](https://app.soluble.cloud/repos/details/github.com/acumenix/atlantis)  
+
 <p align="center">
   <img src="./runatlantis.io/.vuepress/public/hero.png" alt="Atlantis Logo"/><br><br>
   <b>Terraform Pull Request Automation</b>
